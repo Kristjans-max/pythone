@@ -1,0 +1,5 @@
+nickname = input("Kāds ir tevs nickname?")
+game_name = input("Kāda ir tava mīļākā spēle?")
+stundas = input ("Cik tev stundas nospēlētas ir šajā spēlē?")
+like = input("Kapēc tev patīk šī spēle?")
+print("Tātad tu esi", nickname, "tava mīļāķā spēle ir", game_name, "tev šijī spēlē ir", stundas, "un tev patīk jo", like)

@@ -1,0 +1,10 @@
+a = float(input("Ievadi pirmo daļu!!!"))
+b = int(input("Ievaid pirmo skaitli!!!"))
+c = float(input("Ievadi otro daļu!!!"))
+d = int(input("Ievadi otro skaitli!!!"))
+
+print("Summa:", a+b+c+d)
+print("Reizinājums:", a*b*c*d)
+print("Dalījums:", a/b/c/d)
+print("Atlikums:", d%a%c%b)
+print("vidējais:", (a+b+c+d)/4)
